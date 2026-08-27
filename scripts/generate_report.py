@@ -89,6 +89,9 @@ def main() -> None:
     lines = [
         "# Day 25 Reliability Final Report",
         "",
+        "Họ và Tên: Quách Xuân Trường  ",
+        "MSSV: 2A202601371",
+        "",
         "## 1. Architecture summary",
         "",
         "~~~text",
