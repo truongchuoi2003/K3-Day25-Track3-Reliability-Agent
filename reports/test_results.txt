@@ -1,0 +1,5 @@
+Verification command:
+.\.venv\Scripts\python.exe -m pytest -q
+
+Result:
+35 passed, 7 xpassed in 3.89s

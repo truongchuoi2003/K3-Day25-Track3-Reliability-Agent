@@ -1,0 +1,13 @@
+# Command: docker compose exec redis redis-cli KEYS "rl:cache:*"
+rl:cache:dacb2b833659
+rl:cache:0bc3b1acf73d
+rl:cache:844ef0143a5c
+rl:cache:d354658dc020
+rl:cache:9e413fd814eb
+rl:cache:734852f3cf4a
+rl:cache:da61fb49b4f6
+rl:cache:fff10da1c72c
+rl:cache:98332d0d1c9c
+rl:cache:095946136fea
+rl:cache:b2a52f7dc795
+rl:cache:3dab98c0e49e
